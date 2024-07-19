@@ -54,6 +54,6 @@
    
   [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" width="100"/>](mailto:luiscutilak@gmail.com)
 
-  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="125"/>](href="www.linkedin.com/in/luis-fernando-cutilak-developer")
+  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="125"/>](https://www.linkedin.com/in/luis-fernando-cutilak-developer)
 
  </div>
