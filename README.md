@@ -44,7 +44,7 @@
 
 - 🔭 I’m currently working on JBS (But not in the area I would like)
 - 🌱 I’m currently learning, Alura + Oracle(ONE) - MySql Server Oracle - ONE | Oracle Cloud Infrastructure | IA Generative 
-- 👯 I’m looking to collaborate on in a new innovative project that is a global solution
+- 🫂 I’m looking to collaborate on in a new innovative project that is a global solution
 - 🤔 I’m looking for help with finding a technology-related job, working on my passion
 - 💬 Ask me about ...
 - 📫 How to reach me:
@@ -52,7 +52,7 @@
   </br>
   <div style="display: flex; justify-content: space-between;">
    
-  [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" width="100"/>](luiscutilak@gmail.com)
+  [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" width="100"/>](mailto:luiscutilak@gmail.com)
 
   [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="125"/>](www.linkedin.com/in/luis-fernando-cutilak-developer)
 
