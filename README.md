@@ -1,14 +1,18 @@
 <h1>
- Hi there, I'm Luís Cutilak 👋 
+ Hi there, I'm Luís Cutilak 👋
 </h1>
-<h2>Software Developer and BackEnd Specialist</h2>
+<h2>Software Developer and BackEnd Specialist</h2></br>
+</br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0896f852-b1ae-4cec-8ff7-00c4f3d398ff" width="180">
   <img src="https://github.com/user-attachments/assets/e50ede46-7fd5-463d-826f-0639ef30d4aa" width="150">
   <img src="https://github.com/user-attachments/assets/246cf414-d043-4aed-bc4a-ce7c03f2ab21" width="150">
+</br>
+</br>
 </p>
 
-💻 Technologies:
+💻 Technologies:</br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -26,8 +30,8 @@
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
-  
-</p>
+  </p>
+</br>
 
 ⭐About me:
 
@@ -44,6 +48,12 @@
 - 🤔 I’m looking for help with finding a technology-related job, working on my passion
 - 💬 Ask me about ...
 - 📫 How to reach me:
-- <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
-- www.linkedin.com/in/luis-fernando-cutilak-developer
+  </br>
+  </br>
+  <div style="display: flex; justify-content: space-between;">
+   
+  [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" width="100"/>](luiscutilak@gmail.com)
 
+  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="125"/>](www.linkedin.com/in/luis-fernando-cutilak-developer)
+
+ </div>
