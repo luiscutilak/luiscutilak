@@ -1,6 +1,7 @@
-<h1 align="center">
- Hi there, I'm Luís Cutilak, Software Developer, BackEnd Specialist 👋
+<h1>
+ Hi there, I'm Luís Cutilak 👋 
 </h1>
+<h2>Software Developer and BackEnd Specialist</h2>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0896f852-b1ae-4cec-8ff7-00c4f3d398ff" width="180">
   <img src="https://github.com/user-attachments/assets/e50ede46-7fd5-463d-826f-0639ef30d4aa" width="150">
